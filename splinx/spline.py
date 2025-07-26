@@ -100,7 +100,7 @@ def coef2curve(x_eval, grid, coef, k):
     -------
     >>> num_spline = 5
     >>> num_sample = 100
-    >>> num_grid_interval = 10
+    >>> num_grid_interval = 10FigureCanvasAgg is non-interactive, and thus cannot be shown
     >>> k = 3
     >>> key = random.PRNGKey(0)
     >>> key, subkey = random.split(key)
